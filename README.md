@@ -14,3 +14,5 @@ HubSpot CRM: “Deals” modülü ile kullanıcıların farklı satış aşamala
 Trello / Kanban: Proje ve görev takibi.
 
 Not: Verilerin büyük kısmı simülasyon, ancak gerçek kullanıcı geri bildirimlerinden bazı örnekler de eklenmiştir.
+
+Onboarding şablonu: https://phase-utter-04642091.figma.site/
