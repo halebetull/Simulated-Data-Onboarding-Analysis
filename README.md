@@ -1,4 +1,4 @@
-# data-driven-sales-pipeline
+# Simulated-Data-Onboarding-Analysis
 Bu proje, bir to-do list uygulamasının onboarding sürecini analiz etmek ve kullanıcı davranışlarını gözlemlemek amacıyla yapılmış bir çalışmadır. Veri seti çoğunlukla simülasyon olup, süreci test etmek ve araçları öğrenmek için oluşturulmuştur; bazı geri bildirimler gerçek kullanıcı deneyimlerinden alınmıştır.
 
 Kullanılan Araçlar ve Yöntemler:
